@@ -3,3 +3,5 @@
 #Thomas Van Der Weide
 
 What a great test
+
+import gdal
